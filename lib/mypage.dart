@@ -140,7 +140,7 @@ class Mypage extends StatelessWidget {
                               ),
                             ),
 
-                            
+
                             /* 의견보내기 */
                             Container(
                               height: 80,
